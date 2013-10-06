@@ -10,25 +10,25 @@ What a mysterious pattern! Impossible drawing by hand.
 
 **mandelbrot001.png**
 
-![mandelbrot001.png](http://github.com/ashbb/shoes_mandelbrot/tree/master%2Fimg%2Fmandelbrot001.png?raw=true)
+![mandelbrot001.png](https://raw.github.com/ashbb/shoes_mandelbrot/master/img/mandelbrot001.png)
 
 This is the most famous drawing.
 
 **mandelbrot002.png**
 
-![mandelbrot002.png](http://github.com/ashbb/shoes_mandelbrot/tree/master%2Fimg%2Fmandelbrot002.png?raw=true)
+![mandelbrot002.png](https://raw.github.com/ashbb/shoes_mandelbrot/master/img/mandelbrot002.png)
 
 Select a small part (blue rectangle) by mouse. Click the button `cal` to enlarge it.
 
 **mandelbrot003.png**
 
-![mandelbrot003.png](http://github.com/ashbb/shoes_mandelbrot/tree/master%2Fimg%2Fmandelbrot003.png?raw=true)
+![mandelbrot003.png](https://raw.github.com/ashbb/shoes_mandelbrot/master/img/mandelbrot003.png)
 
 Enlarge again.
 
 **mandelbrot004.png**
 
-![mandelbrot004.png](http://github.com/ashbb/shoes_mandelbrot/tree/master%2Fimg%2Fmandelbrot004.png?raw=true)
+![mandelbrot004.png](https://raw.github.com/ashbb/shoes_mandelbrot/master/img/mandelbrot004.png)
 
 Enlarge several times and add some colors.
 
