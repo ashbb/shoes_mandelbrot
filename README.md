@@ -97,5 +97,5 @@ This code is based on Gallery 13.
 
 References
 ----------
-- [Gallery 13](http://shoes-tutorial-note.heroku.com/html/01130_Fancy_Gallery_11-15.html) in the Shoes Tutorial Note
+- [Gallery 13](https://github.com/ashbb/shoes_tutorial_html/blob/master/mdowns/01130_Fancy_Gallery_11-15.mdown) in the Shoes Tutorial Note
 - [Mandelbrot Set](http://www.asahi-net.or.jp/~uc3k-ymd/Sketch/Mandelbrot/mandel01.html) (in Japanese)
